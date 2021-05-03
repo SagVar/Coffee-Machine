@@ -1,0 +1,8 @@
+[
+	[
+		"hot_tea can not be prepared because hot_milk is not sufficient",
+		"hot_coffee can not be prepared because hot_milk is not sufficient",
+		"black_tea can not be prepared because hot_water is not sufficient",
+		"green_tea can not be prepared because ginger_syrup is not available"
+	]
+]

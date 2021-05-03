@@ -1,0 +1,20 @@
+[
+	[
+		"Your hot_tea is prepared!",
+		"Your hot_coffee is prepared!",
+		"black_tea can not be prepared because hot_water is not sufficient",
+		"green_tea can not be prepared because sugar_syrup is not sufficient"
+	],
+	[
+		"Your hot_tea is prepared!",
+		"Your black_tea is prepared!",
+		"hot_coffee can not be prepared because hot_water is not available",
+		"green_tea can not be prepared because hot_water is not available"
+	],
+	[
+		"Your hot_coffee is prepared!",
+		"Your black_tea is prepared!",
+		"hot_tea can not be prepared because hot_water is not sufficient",
+		"green_tea can not be prepared because sugar_syrup is not available"
+	]
+]
